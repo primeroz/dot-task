@@ -8,7 +8,7 @@
 ##############################################################################
 
 pkg.link() {
-    files=(taskrc)
+    files=(taskrc taskopenrc)
     binfiles=(taskopen)
 
     for file in ${files[@]}; do
