@@ -16,7 +16,7 @@ pkg.link() {
     done
 
     for file in ${binfiles[@]}; do
-        fs.link_file $file "$ELLIPSIS_HOME/bin/"
+        fs.link_file $file "$ELLIPSIS_HOME/bin/$file"
     done
 
     fs.link_file $PKG_PATH "$ELLIPSIS_HOME/.task.d"
