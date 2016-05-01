@@ -24,10 +24,11 @@ data.location=~/.task
 #include /usr/share/task/rc/dark-violets-256.theme
 #include /usr/share/task/rc/dark-yellow-green.theme
 #include /usr/share/task/rc/dark-gray-256.theme
-include /usr/share/task/rc/dark-gray-blue-256.theme
+#include /usr/share/task/rc/dark-gray-blue-256.theme
 #include /usr/share/task/rc/solarized-dark-256.theme
 #include /usr/share/task/rc/solarized-light-256.theme
 #include /usr/share/task/rc/no-color.theme
 
+include ~/.task.d/dark-gray-blue-256.theme
 include ~/.task.d/urgency
 include ~/.task.d/contexts
