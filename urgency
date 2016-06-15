@@ -1,6 +1,8 @@
 urgency.user.tag.later.coefficient=-6.0
 urgency.user.tag.problem.coefficient=4.5
+urgency.user.tag.important.coefficient=4.5
 urgency.user.tag.work.coefficient=2.5
 urgency.user.project.w.ldap.coefficient=5.0
+urgency.user.project.w.network.coefficient=5.0
 urgency.user.project.w.enfield.coefficient=5.0
 urgency.user.project.h.prz.coefficient=2.5
