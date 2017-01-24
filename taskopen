@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w -CLASo
+#!perl -w -CLASo
 
 ###############################################################################
 # taskopen - file based notes with taskwarrior
